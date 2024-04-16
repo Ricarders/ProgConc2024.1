@@ -8,6 +8,7 @@ Este repositório contém os seguintes arquivos:
 - multiplica.c: Multiplica duas matrizes de maneira sequencial.
 - mult_conc.c: Multiplica duas matrizes de maneira concorrente.
 - comparador.c: Compara dois arquivos e diz se são idênticos.
+- Relatório.pdf: Relatório de desempenho do programa.
 
 ## Como usar
 
